@@ -1,0 +1,10 @@
+Internship Completion Letter
+
+This is to certify that Aanya Sharma successfully completed a 3-month
+internship at TechNova Solutions, working on a Machine Learning and
+Python based recommendation system.
+
+Skills applied: Python, Machine Learning, SQL.
+
+Issued by: TechNova Solutions
+Date: June 2025

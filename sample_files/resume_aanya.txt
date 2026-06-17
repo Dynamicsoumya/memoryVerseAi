@@ -1,0 +1,11 @@
+Aanya Sharma
+B.Tech Computer Science
+
+Skills: Python, Machine Learning, SQL, React, Git
+
+Experience:
+- Data Science Club Lead, 2024
+- Built a machine learning project predicting student performance, 2024
+
+Education:
+- XYZ Institute of Technology, graduating 2025

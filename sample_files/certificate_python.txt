@@ -1,0 +1,9 @@
+Certificate of Completion
+
+This certifies that Aanya Sharma has successfully completed the course
+"Python for Data Science" offered by Coursera.
+
+Skills demonstrated: Python, Pandas, NumPy, Data Analysis.
+
+Issued by: Coursera
+Date: March 2023

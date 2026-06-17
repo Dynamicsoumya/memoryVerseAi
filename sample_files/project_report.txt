@@ -1,0 +1,7 @@
+Project Report: AI-Powered Student Performance Predictor
+
+This project uses Python, Machine Learning, and Pandas to predict student
+academic performance based on historical data. Built in 2024 as part of
+the Data Science Club initiative.
+
+Tech stack: Python, Scikit-learn, Pandas, NumPy.

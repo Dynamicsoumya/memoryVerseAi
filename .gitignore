@@ -1,0 +1,11 @@
+data/uploads/*
+data/chroma_db/*
+data/memoryverse.db
+!data/uploads/.gitkeep
+!data/chroma_db/.gitkeep
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+lib/
